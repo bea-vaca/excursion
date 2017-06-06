@@ -1,0 +1,26 @@
+html {
+  background-color: black;
+  font-family: Verdana;
+  text-align: center;
+}
+h1 {
+  font-size: 50px;
+  font-weight: normal;
+  color: white;
+}
+h4 {
+  font-size: 16px;
+  font-weight: normal;
+  color: aquamarine;
+  text-decoration: underline;
+}
+h2 {
+  font-size: 42px;
+  font-weight: 300;
+  color: white;
+}
+h3 {
+  font-size: 21px;
+  font-weight: normal;
+  color: grey;
+}
